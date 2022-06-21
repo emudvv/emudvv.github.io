@@ -60,7 +60,8 @@
     "tel://",
     "alipays://",
     "mailto:",
-    "chsp://"
+    "chsp://",
+    "simclient://"
   ],
   "syncCookiesUrl": "https://www.jindianle.com",
   "hotCodeUrl": "https://update-0001.jindianle.com/hot_code_com.github.emudvv.smdt_dist/koudai/",
